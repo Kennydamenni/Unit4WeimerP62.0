@@ -16,7 +16,7 @@ public class PlayerController : MonoBehaviour
     {
         playerRb = GetComponent<Rigidbody>();
         focalPoint = GameObject.Find("Focal Point");
-        powerupIndicator.transform.position = transform.position + new Vector3(0, -0.5f, 0)
+        powerupIndicator.transform.position = transform.position + new Vector3(0, -0.5f, 0);
     }
 
     // Update is called once per frame

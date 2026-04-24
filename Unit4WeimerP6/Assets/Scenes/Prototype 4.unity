@@ -801,6 +801,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   powerupPrefab: {fileID: 7082991391713455921, guid: ca2d751325693e342a126d5be25f5fe6, type: 3}
   enemyPrefab: {fileID: 842126166687312052, guid: 1e10bfece64260f488878ae6a7627601, type: 3}
+  enemyPrefabs:
+  - {fileID: 842126166687312052, guid: beceb885c864286488842cd20abc2cda, type: 3}
   enemyCount: 0
   waveNumber: 1
 --- !u!4 &1748832845
